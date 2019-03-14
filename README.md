@@ -1,4 +1,4 @@
-# NuCypherWallet
+# NuCypherWallet (NubutuCypher)
 NubutuCypherWallet
 
 Proposal for an interconnected crypto wallet running on NuCypher (NubutuCypherWallet)
