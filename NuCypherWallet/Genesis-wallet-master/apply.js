@@ -9,12 +9,7 @@ var temp = {
   'index.html': '/',
   'config-temp.xml': '/',
   'ionic.config.json': '/',
-  '.desktop': 'genesis-wallet/',
-  'setup-win.iss': 'genesis-wallet/',
-  'create-dmg-dist.sh': 'genesis-wallet/',
-  'create-others-dist.sh': 'genesis-wallet/',
-  'create-pkg-dist.sh': 'genesis-wallet/',
-  'sign-desktop-dist.sh': 'genesis-wallet/',
+ 
   'manifest.json': 'chrome-app/',
   //  'bower.json': '/',
 };
